@@ -1,2 +1,2 @@
 # Tutin
-Tutin curses you
+Tutin curses you and he curses himself or does he>
